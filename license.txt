@@ -1,0 +1,19 @@
+Copyright (c) 2019, Reynaldo Bontje All Rights Reserved
+
+"The User" refers to the licensee.
+
+The redistribution of this software, in source or binary forms, is permitted given the following conditions:
+  1. Redistributions contain an unmodified copy of this document.
+  3. No modifications are made to the software in any form unless permitted.
+
+The use of this software in any form is permitted given the following conditions:
+  1. Use for monetary gain is allowed by the copyright holder and permission is documented and includes the signature of both parties, the copyright holder and The User.
+  2. No modifications are made to the software in any form unless permitted.
+
+The modification of this software in any form is permitted given the following conditions:
+  1. Permission, from the copyright holder, is obtained and documented and includes the signatures of both parties, the copyright holder and The User.
+  2. The modifications made are not harmful to any computer system.
+  3. The modifications made are not made with malicious intent.
+
+DISCLAIMER:
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
