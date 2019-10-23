@@ -4,14 +4,14 @@ Copyright (c) 2019, Reynaldo Bontje All Rights Reserved
 
 The redistribution of this software, in source or binary forms, is permitted given the following conditions:
   1. Redistributions contain an unmodified copy of this document.
-  3. No modifications are made to the software in any form unless permitted.
+  2. No modifications are made to the software in any form unless permitted.
 
 The use of this software in any form is permitted given the following conditions:
   1. Use for monetary gain is allowed by the copyright holder and permission is documented and includes the signature of both parties, the copyright holder and The User.
   2. No modifications are made to the software in any form unless permitted.
 
 The modification of this software in any form is permitted given the following conditions:
-  1. Permission, from the copyright holder, is obtained and documented and includes the signatures of both parties, the copyright holder and The User.
+  1. Permission from the copyright holder is obtained and documented and includes the signatures of both parties, the copyright holder and The User.
   2. The modifications made are not harmful to any computer system.
   3. The modifications made are not made with malicious intent.
 
