@@ -1,0 +1,10 @@
+{
+  "name": "react-writer",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index",
+    "test": "node test"
+  },
+  "license": "SEE LICENSE IN license.txt",
+  "repository": "https://github.com/plungedtoilet/react-writer.git"
+}
